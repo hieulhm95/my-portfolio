@@ -4,21 +4,21 @@
     "label": "Software Engineer",
     "email": "hieulhminh@gmail.com",
     "phone": "(+84) 917 077 149",
-    "picture": "mt.png",
+    "picture": "mt1.png",
     "x_title": "Hello, I'm",
     "job1": "Software",
     "job2": "Engineer",
     "description": "Greetings! I'm Hiẹu Le! Your dedicated web design aficionado. Eager for fresh and exciting challenges! Much like CSS, I'm here to assist you in crafting visually stunning and responsive websites.",
-    "summary": "based in Angeles, Philippines.",
+    "summary": "based in TPHCM, Vietnam.",
     "keywords": "personal,website,portfolio,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-    "url": "https://hieulhminh.vercel.app/",
+    "url": "https://hieuleeng.vercel.app/",
     "location": {
       "address": "XX XXXXXstreet",
       "postalCode": "XXXXX",
-      "city": "Angeles",
-      "country": "Philippines",
-      "countryCode": "PH",
-      "region": "Pampanga"
+      "city": "TPHCM",
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "region": "Vietnam"
     },
     "profiles": [
       {
