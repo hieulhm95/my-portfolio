@@ -13,6 +13,9 @@ import LivByAia from '../../assets/recentprojects/liv-by-aia.jpg';
 import Vieclamtot from '../../assets/recentprojects/vieclamtot.png';
 import KemNghia from '../../assets/recentprojects/kemnghia.jpg';
 import Autotable from '../../assets/recentprojects/autotable.png';
+import YeuLanh from '../../assets/recentprojects/yeulanh.png';
+import FlavorVietnam from '../../assets/recentprojects/flavor-vietnam.png';
+import Unitour from '../../assets/recentprojects/unitour.png';
 
 const useStyles = makeStyles(theme => ({
   main: {
@@ -83,6 +86,33 @@ const projects = [
     the business ramp up its prospects and lead generation.`,
     alter: 'Startup Project',
     image: `${Autotable}`,
+  },
+  {
+    id: 8,
+    title: 'Yêu Lành',
+    description: `A website project for the La Calle Cafe business
+    built using Wordpress and PHP with integrated SEO tools to help
+    the business ramp up its prospects and lead generation.`,
+    alter: 'Startup Project',
+    image: `${YeuLanh}`,
+  },
+  {
+    id: 9,
+    title: 'Flavor Vietnam 2022',
+    description: `A website project for the La Calle Cafe business
+    built using Wordpress and PHP with integrated SEO tools to help
+    the business ramp up its prospects and lead generation.`,
+    alter: 'Startup Project',
+    image: `${FlavorVietnam}`,
+  },
+  {
+    id: 10,
+    title: 'Cởi mở - Unitour',
+    description: `A website project for the La Calle Cafe business
+    built using Wordpress and PHP with integrated SEO tools to help
+    the business ramp up its prospects and lead generation.`,
+    alter: 'Startup Project',
+    image: `${Unitour}`,
   },
 ];
 
